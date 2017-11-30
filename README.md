@@ -1,7 +1,7 @@
 # ACM
 ACM
-      + 信息站 http://acmicpc.info/
-       + poj题库 很好很有层次感 http://blog.csdn.net/a1dark/article/details/11714009
+       信息站 http://acmicpc.info/
+       poj题库 很好很有层次感 http://blog.csdn.net/a1dark/article/details/11714009
        北大poj http://poj.org/
        杭电hdu http://acm.hdu.edu.cn/
        cf http://acm.hdu.edu.cn/
