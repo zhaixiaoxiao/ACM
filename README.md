@@ -15,4 +15,5 @@ ACM
        poj题库 很好很有层次感 http://blog.csdn.net/a1dark/article/details/11714009</br>
        信息站 http://acmicpc.info/  </br>
        https://icpcarchive.ecs.baylor.edu/index.php</br>
-       http://www.lintcode.com/zh-cn/</br>
+       leetcode    http://www.lintcode.com/zh-cn/</br>
+       pat https://www.patest.cn/p/index#test</br>
